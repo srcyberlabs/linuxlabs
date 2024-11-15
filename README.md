@@ -5,8 +5,17 @@
 <h1 align="center">LINUX LABS: WHERE POWER MEETS FREEDOM!</h1>
 
 <br>
+
+----------
+
+<p style="text-align: center;">
+  <img src="https://drive.google.com/uc?export=view&id=1ELHXFFL4qSZnCY8uQ6_3UO0ezh4OjGN6" alt="Image">
+</p>
+
+----------
+
  
-**Linux Labs**, a powerful solution by **SR Cyber Labs**, is a cutting-edge platform that provides a comprehensive Linux-based ecosystem tailored to the needs of organizations, researchers, developers, and individual users. It is optimized for development, testing, migration, and deployment, supporting a broad spectrum of applications ranging from small personal projects to enterprise-scale operations. **Linux Labs** is the ultimate choice for users seeking flexibility, stability, and security in environments like academic research, software development, and enterprise IT solutions.  
+> **Linux Labs**, a powerful solution by **SR Cyber Labs**, is a cutting-edge platform that provides a comprehensive Linux-based ecosystem tailored to the needs of organizations, researchers, developers, and individual users. It is optimized for development, testing, migration, and deployment, supporting a broad spectrum of applications ranging from small personal projects to enterprise-scale operations. **Linux Labs** is the ultimate choice for users seeking flexibility, stability, and security in environments like academic research, software development, and enterprise IT solutions.  
 
 <br>
 <br>
@@ -178,6 +187,22 @@ In today’s digital age, **Linux** remains the foundation of a massive portion 
 <br>
 <br>
 <br>
+<br>
+
+
+----------
+
+
+
+<p style="text-align: center;">
+  <img src="https://drive.google.com/uc?export=view&id=15rtMPNd7KTGnoS1oa4GsJVaM68HEv-vr" alt="Image">
+</p>
+
+
+----------
+
+
+
 <br>
 
 
